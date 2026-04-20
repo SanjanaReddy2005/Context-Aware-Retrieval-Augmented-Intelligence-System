@@ -1,0 +1,5 @@
+/doomenv
+/backend/.env
+/backend/api/__pycache__/
+/backend/api/faiss_index/
+/frontendb
